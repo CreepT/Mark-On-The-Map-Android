@@ -1,4 +1,4 @@
-package com.shabanov.xxx.map;
+package com.shabanov.xxx.map2;
 
 import org.junit.Test;
 

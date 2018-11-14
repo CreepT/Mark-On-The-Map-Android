@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Map</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="app_name">Mark On The Map</string>
+    <string name="name">Отметь на карте</string>
 </resources>

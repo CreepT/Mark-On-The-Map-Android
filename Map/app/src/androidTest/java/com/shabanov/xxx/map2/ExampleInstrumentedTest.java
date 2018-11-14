@@ -1,4 +1,4 @@
-package com.shabanov.xxx.map;
+package com.shabanov.xxx.map2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.shabanov.xxx.map", appContext.getPackageName());
+        assertEquals("com.shabanov.xxx.map2", appContext.getPackageName());
     }
 }
